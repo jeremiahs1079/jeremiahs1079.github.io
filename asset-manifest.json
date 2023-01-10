@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d3c6643.css",
-    "main.js": "/static/js/main.c3fb6663.js",
+    "main.css": "/static/css/main.d188ba17.css",
+    "main.js": "/static/js/main.3c34d673.js",
+    "static/media/church-1024x768.jpg": "/static/media/church-1024x768.7e0bddd4d95c1e75097e.jpg",
+    "static/media/fbc_logo_new_three_cross_circle.png": "/static/media/fbc_logo_new_three_cross_circle.8b93f838261ef370fff2.png",
     "index.html": "/index.html",
-    "main.0d3c6643.css.map": "/static/css/main.0d3c6643.css.map",
-    "main.c3fb6663.js.map": "/static/js/main.c3fb6663.js.map"
+    "main.d188ba17.css.map": "/static/css/main.d188ba17.css.map",
+    "main.3c34d673.js.map": "/static/js/main.3c34d673.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d3c6643.css",
-    "static/js/main.c3fb6663.js"
+    "static/css/main.d188ba17.css",
+    "static/js/main.3c34d673.js"
   ]
 }
